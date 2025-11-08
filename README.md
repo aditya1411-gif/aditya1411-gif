@@ -15,7 +15,7 @@ I'm currently learning Typescript.<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aditya1411-gif&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
-<a href="(https://github.com/Abhi-2206)">
+<a href="(https://github.com/aditya1411-gif)">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/maiqingqiang/maiqingqiang@output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/maiqingqiang/maiqingqiang@output/github-contribution-grid-snake.svg">
