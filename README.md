@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Javascript.<br>
+I'm currently learning Typescript.<br>
 
 
 ## 🌐 Socials:
